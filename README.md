@@ -26,14 +26,6 @@ Building interactive console applications
 
 ---
 
-📂 File Structure
-  personal-expense-tracker/
-│── expense_tracker.py    # Main source code
-│── expenses.csv          # Data file (auto-created when running)
-│── README.md             # Project documentation
-
----
-
 ## 🛠️ Tech Stack
 - Python  
 - CSV Handling (File I/O)  
